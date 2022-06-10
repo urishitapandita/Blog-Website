@@ -1,9 +1,4 @@
-/* 
-    Fonts
-    -----
-    font-family: 'Lora', serif;
-    font-family: 'Ubuntu', sans-serif;
-*/
+
 
 body {
     margin: 0 auto;
@@ -23,9 +18,6 @@ img {
     object-fit: cover;
     margin-bottom: 2em;
 }
-/* ========================
-            Typogragy
-   ======================== */
 
 h1,
 h2,
@@ -278,12 +270,3 @@ nav a:focus {
 
 
 
-
-/* @media (min-width: 550px) {
-    .article-recent-main {
-        margin-top: -3em;
-    }
-    .article-info {
-        text-align: right;
-    }
-} */
